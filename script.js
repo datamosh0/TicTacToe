@@ -74,3 +74,4 @@ const myFunc = (() => {
     document.querySelectorAll(".square").forEach((e) => (e.textContent = ""));
   });
 })();
+
